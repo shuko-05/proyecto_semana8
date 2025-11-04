@@ -1,0 +1,21 @@
+.titulo{
+    color: red;
+}
+
+.subtitulo{
+    color: green;
+}
+
+.formato01{
+    color: blue;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.formato02{
+    color: blueviolet;
+    font-family: 
+        'Franklin Gothic Medium', 
+        Arial, 
+        sans-serif;
+}

@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+    color: darkblue;
+}
+
+h2{
+    text-align: center;
+    color: darkblue;
+}
+
+body{
+    background-color: azure;
+}
+
+img{
+    width: 100%;
+}
+
+p{
+    text-align: justify;
+    font-size: 13pt;
+}
+
+.comida1{
+    width: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.imagenes{
+    text-align: center;
+}
+
+.imagenes img{
+    width: 20%;
+}
+
+.links{
+    font-size: 20pt;
+}
+
+.links a{
+    color: red;
+}

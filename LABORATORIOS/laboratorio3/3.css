@@ -1,0 +1,17 @@
+body{
+    background-color: lightblue;
+}
+
+h1{
+    background-color: green;
+}
+
+div{
+    background-color: greenyellow;
+    height: 100px;
+    width: 100%;
+}
+
+p{
+    background-color: yellow;
+}

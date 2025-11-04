@@ -1,0 +1,48 @@
+body{
+    background-color: lemonchiffon;
+}
+
+h1, h2, h3{
+    text-align: center;
+    color: darkgreen;
+}
+
+img{
+    width: 90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    font-size: 15pt;
+    color: gray;
+    text-align: justify;
+}
+
+.img12{
+    text-align: center;
+}
+
+.img12 img{
+    width: 40%;
+    display: inline-block;
+}
+
+.img3{
+    text-align: center;
+}
+
+.img3 img{
+    width: 40%;
+    display: block;
+}
+
+
+.links{
+    font-size: 18pt;
+}
+
+.links a{
+    color: orange;
+}
